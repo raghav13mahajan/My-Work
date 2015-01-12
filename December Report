@@ -1,0 +1,6 @@
+I have covered the following topics related to RTOS as per assigned to me-
+
+1) Task Management – Task functions, states of tasks, functions involving creating tasks, deleting tasks and changing 
+   priority of tasks.
+
+2) Queue Management- covered characteristics of queue and functions involving creating queue, sending to back.
